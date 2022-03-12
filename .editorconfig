@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# CA1725: Nomes de parâmetros devem corresponder à declaração base
+dotnet_diagnostic.CA1725.severity = silent
