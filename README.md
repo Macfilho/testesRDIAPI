@@ -1,5 +1,5 @@
 # testesRDIAPI
-Usued Visual Studio 2019 , .net core 5.0, db sqlite, works https and Swagger 
+Done in Visual Studio 2019 , .net core 5.0, db sqlite, works https and Swagger 
 crud creditcards, still in tests and enhacements
 
 1 – API that receive customer card and save it on the db
